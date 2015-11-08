@@ -1,7 +1,0 @@
-Location of the input file is largeIntegerSequence.txt
-Local max value at processor 1 is 99993
-Local max value at processor 2 is 99992
-Overall value at processor 2 is 99993
-Overall value at processor 1 is 99993
-Overall value at processor 0 is 99993
-Runtime: 0.006640
