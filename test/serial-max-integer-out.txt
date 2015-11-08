@@ -1,0 +1,3 @@
+Location of the input file: largeIntegerSequence.txt
+Among 10000 integers that've been read, the maximum is 99993
+Runtime: 0.004242
